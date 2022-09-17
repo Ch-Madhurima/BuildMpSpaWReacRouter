@@ -1,5 +1,3 @@
-import { getDefaultNormalizer } from "@testing-library/react";
-
 const NotFound = () => {
   return (
     <div className="centered">
